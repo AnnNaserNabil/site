@@ -5,8 +5,8 @@ module.exports = {
     title: 'Ann Naser Nabil',
     description:
       'AI & ML Engineer.',
-    siteUrl: 'https://agentsatwork.github.io', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    siteUrl: 'https://ubermensch.is-a.dev', // No trailing slash allowed!
+    image: '/static/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@ann_naser',
   },
   plugins: [
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Ann Naser Nabil',
+        short_name: 'Ann Naser Nabil',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
